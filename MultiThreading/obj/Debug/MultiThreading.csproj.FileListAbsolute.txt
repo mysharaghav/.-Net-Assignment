@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Desktop\C# Assignment\MultiThreading\obj\Debug\MultiThreading.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# Assignment\MultiThreading\obj\Debug\MultiThreading.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# Assignment\MultiThreading\bin\Debug\MultiThreading.exe.config
+C:\Users\Lenovo\Desktop\C# Assignment\MultiThreading\bin\Debug\MultiThreading.exe
+C:\Users\Lenovo\Desktop\C# Assignment\MultiThreading\bin\Debug\MultiThreading.pdb
+C:\Users\Lenovo\Desktop\C# Assignment\MultiThreading\obj\Debug\MultiThreading.exe
+C:\Users\Lenovo\Desktop\C# Assignment\MultiThreading\obj\Debug\MultiThreading.pdb
+C:\Users\Lenovo\Desktop\C# Assignment\MultiThreading\obj\Debug\MultiThreading.exe.config
