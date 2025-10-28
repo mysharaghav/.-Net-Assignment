@@ -49,18 +49,18 @@ namespace Assignment_2
         static void Main(string[] args)
         {
             UserProfile user1 = new UserProfile();
-            user1.Username = "Utkarsh";
+            user1.Username = "Gaurav";
             user1.Password = "secure123";
-            user1.Email = "utkarsh@example.com";
+            user1.Email = "Gaurav@example.com";
 
             UserProfile user2 = new UserProfile();
-            user2.Username = "Raj";
+            user2.Username = "Sharma";
             user2.Password = "pass";
             user2.Email = "raexample.com";
 
             user1.Display();
             user2.Display();
-            Console.WriteLine("Developed By Utkarsh Roll-48");
+            Console.WriteLine("Developed By Gaurav Roll-16");
         }
     }
 }

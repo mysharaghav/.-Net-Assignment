@@ -40,13 +40,13 @@ namespace Assignment_2
         static void Main(string[] args)
         {
             Student s1 = new Student();
-            Student s2 = new Student("Utkarsh", 48);
-            Student s3 = new Student("Raj", 50, 85);
+            Student s2 = new Student("Gaurav", 48);
+            Student s3 = new Student("Sharma", 50, 85);
 
             s1.Display();
             s2.Display();
             s3.Display();
-            Console.WriteLine("Developed By Utkarsh Roll-48");
+            Console.WriteLine("Developed By Gaurav Roll-16");
         }
     }
 }

@@ -48,7 +48,7 @@ namespace Assignment_2
 
             p1.Display();
             p2.Display();
-            Console.WriteLine("Developed By Utkarsh Roll-48");
+            Console.WriteLine("Developed By Gaurav Roll-16");
         }
     }
 }
