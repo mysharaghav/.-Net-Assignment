@@ -21,7 +21,7 @@ namespace Assignment_3
         {
             int[] arr = { 10, 20, 30, 40, 50 };
             Console.WriteLine("Average: " + MathHelper.CalculateAverage(arr));
-            Console.WriteLine("Developed By Gaurav Roll-16");
+            Console.WriteLine("Developed By Mysha");
         }
     }
 }

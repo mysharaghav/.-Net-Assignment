@@ -32,7 +32,7 @@ namespace Assignment_4
             Console.WriteLine("Age1: " + s1.Age);
             Console.WriteLine("Age2: " + s2.Age);
             Console.WriteLine("Age3: " + s3.Age);
-            Console.WriteLine("Developed By Gaurav Roll-16");
+            Console.WriteLine("Developed By Mysha");
         }
     }
 }

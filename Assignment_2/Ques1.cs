@@ -49,9 +49,9 @@ namespace Assignment_2
         static void Main(string[] args)
         {
             UserProfile user1 = new UserProfile();
-            user1.Username = "Gaurav";
+            user1.Username = "Mysha";
             user1.Password = "secure123";
-            user1.Email = "Gaurav@example.com";
+            user1.Email = "Mysha@example.com";
 
             UserProfile user2 = new UserProfile();
             user2.Username = "Sharma";
@@ -60,7 +60,7 @@ namespace Assignment_2
 
             user1.Display();
             user2.Display();
-            Console.WriteLine("Developed By Gaurav Roll-16");
+            Console.WriteLine("Developed By Mysha");
         }
     }
 }
