@@ -14,7 +14,7 @@ namespace Assignment_1
             }
             float avg = sum / scores.Length;
             Console.WriteLine("Average Score: " + avg);
-            Console.WriteLine("Developed By Utkarsh Roll-48");
+            Console.WriteLine("Developed By Gaurav Roll-16");
         }
     }
 }

@@ -16,7 +16,7 @@ namespace Assignment_1
                     females++;
             }
             Console.WriteLine("Males: " + males + ", Females: " + females);
-            Console.WriteLine("Developed By Utkarsh Roll-48");
+            Console.WriteLine("Developed By Gaurav Roll-16");
         }
     }
 }

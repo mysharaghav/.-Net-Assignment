@@ -14,7 +14,7 @@ namespace Assignment_1
                     max = prices[i];
             }
             Console.WriteLine("Most Expensive Item: " + max);
-            Console.WriteLine("Developed By Utkarsh Roll-48");
+            Console.WriteLine("Developed By Gaurav Roll-16");
         }
     }
 }

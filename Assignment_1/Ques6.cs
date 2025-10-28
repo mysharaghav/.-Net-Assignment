@@ -13,7 +13,7 @@ namespace Assignment_1
                 measurements[i] *= factor;
             }
             Console.WriteLine("Adjusted Measurements: " + string.Join(" ", measurements));
-            Console.WriteLine("Developed By Utkarsh Roll-48");
+            Console.WriteLine("Developed By Gaurav Roll-16");
         }
     }
 }

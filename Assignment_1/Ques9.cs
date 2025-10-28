@@ -10,7 +10,7 @@ namespace Assignment_1
             int[] ids = { 102, 215, 102, 324, 215 };
             HashSet<int> uniqueIds = new HashSet<int>(ids);
             Console.WriteLine("Unique IDs: " + string.Join(" ", uniqueIds));
-            Console.WriteLine("Developed By Utkarsh Roll-48");
+            Console.WriteLine("Developed By Gaurav Roll-16");
         }
     }
 }

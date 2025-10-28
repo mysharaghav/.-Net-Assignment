@@ -13,7 +13,7 @@ namespace Assignment_1
                 sum += transactions[i];
             }
             Console.WriteLine("Total Sum of Transactions: " + sum);
-            Console.WriteLine("Developed By Utkarsh Roll-48");
+            Console.WriteLine("Developed By Gaurav Sharma-16");
         }
     }
 }

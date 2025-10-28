@@ -9,7 +9,7 @@ namespace Assignment_1
             int[] grades = { 56, 78, 89, 45, 67 };
             Array.Sort(grades);
             Console.WriteLine("Second Smallest Grade: " + grades[1]);
-            Console.WriteLine("Developed By Utkarsh Roll-48");
+            Console.WriteLine("Developed By Gaurav Roll-16");
         }
     }
 }
