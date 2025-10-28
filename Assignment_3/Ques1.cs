@@ -21,9 +21,9 @@ namespace Assignment_3
 
         static void Main(string[] args)
         {
-            Employee emp = new Employee { Name = "Utkarsh", Age = 22, Salary = 45000 };
+            Employee emp = new Employee { Name = "Gaurav", Age = 22, Salary = 45000 };
             emp.Display();
-            Console.WriteLine("Developed By Utkarsh Roll-48");
+            Console.WriteLine("Developed By Gaurav Roll-16");
         }
     }
 }
