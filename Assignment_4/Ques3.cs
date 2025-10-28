@@ -21,7 +21,7 @@ namespace Assignment_4
             Employee emp = new Employee();
             emp.SetSalary(30000);
             Console.WriteLine("Total Salary: " + emp.TotalSalary);
-            Console.WriteLine("Developed By Utkarsh Roll-48");
+            Console.WriteLine("Developed By Gaurav Roll-16");
         }
     }
 }

@@ -19,7 +19,7 @@ namespace Assignment_4
             notify += SendSMS;
 
             notify("Assignment Submitted Successfully");
-            Console.WriteLine("Developed By Utkarsh Roll-48");
+            Console.WriteLine("Developed By Gaurav Roll-16");
         }
     }
 }

@@ -19,7 +19,7 @@ namespace Assignment_4
         {
             Product p = new Product { Price = 2000, Discount = 10 };
             Console.WriteLine("Final Price: " + p.FinalPrice());
-            Console.WriteLine("Developed By Utkarsh Roll-48");
+            Console.WriteLine("Developed By Gaurav Roll-16");
         }
     }
 }
