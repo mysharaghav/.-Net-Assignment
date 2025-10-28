@@ -42,7 +42,7 @@ namespace Assignment_4
             bill += FinalBill;
 
             bill(5000);
-            Console.WriteLine("Developed By Gaurav Roll-16");
+            Console.WriteLine("Developed By Mysha");
         }
     }
 }

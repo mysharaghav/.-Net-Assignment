@@ -48,7 +48,7 @@ namespace Assignment_2
 
             p1.Display();
             p2.Display();
-            Console.WriteLine("Developed By Gaurav Roll-16");
+            Console.WriteLine("Developed By Mysha");
         }
     }
 }

@@ -30,7 +30,7 @@ namespace Assignment_2
 
             Console.WriteLine($"{fte.Name}'s Salary: {fte.CalculateSalary()}");
             Console.WriteLine($"{pte.Name}'s Salary: {pte.CalculateSalary()}");
-            Console.WriteLine("Developed By Gaurav Roll-16");
+            Console.WriteLine("Developed By Mysha");
         }
     }
 }

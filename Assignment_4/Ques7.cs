@@ -21,7 +21,7 @@ namespace Assignment_4
 
             Console.WriteLine("Upper: " + f1(text));
             Console.WriteLine("Lower: " + f2(text));
-            Console.WriteLine("Developed By Gaurav Roll-16");
+            Console.WriteLine("Developed By Mysha");
         }
     }
 }

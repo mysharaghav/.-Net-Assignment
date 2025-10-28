@@ -23,9 +23,9 @@ namespace Assignment_3
 
         static void Main(string[] args)
         {
-            Person p = new Person { FirstName = "Gaurav", LastName = "Sharma" };
+            Person p = new Person { FirstName = "Mysha", LastName = "Raghav" };
             p.PrintFullName();
-            Console.WriteLine("Developed By Gaurav Roll-16");
+            Console.WriteLine("Developed By Mysha");
         }
     }
 }

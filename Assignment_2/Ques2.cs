@@ -34,7 +34,7 @@ namespace Assignment_2
 
             truck.DisplayDetails();
             bus.DisplayDetails();
-            Console.WriteLine("Developed By Gaurav Roll-16");
+            Console.WriteLine("Developed By Mysha");
         }
     }
 }

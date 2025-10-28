@@ -23,7 +23,7 @@ namespace Assignment_3
         {
             Employee emp = new Employee { Name = "Gaurav", Age = 22, Salary = 45000 };
             emp.Display();
-            Console.WriteLine("Developed By Gaurav Roll-16");
+            Console.WriteLine("Developed By Mysha");
         }
     }
 }

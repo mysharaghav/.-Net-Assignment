@@ -31,7 +31,7 @@ namespace Assignment_4
             acc.Balance = 1000;
             acc.Withdraw(500);
             Console.WriteLine("Final Balance: " + acc.Balance);
-            Console.WriteLine("Developed By Gaurav Roll-16");
+            Console.WriteLine("Developed By Mysha");
         }
     }
 }

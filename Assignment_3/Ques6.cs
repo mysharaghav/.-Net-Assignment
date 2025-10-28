@@ -24,9 +24,9 @@ namespace Assignment_3
 
         static void Main(string[] args)
         {
-            Employee emp = new Employee { Name = "Utkarsh", BasicSalary = 25000, Allowance = 5000 };
+            Employee emp = new Employee { Name = "Mysha", BasicSalary = 25000, Allowance = 5000 };
             Console.WriteLine($"{emp.Name}'s Salary: {emp.CalculateSalary()}");
-            Console.WriteLine("Developed By Gaurav Roll-16");
+            Console.WriteLine("Developed By Mysha");
         }
     }
 }

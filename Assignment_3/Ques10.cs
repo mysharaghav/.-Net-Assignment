@@ -28,7 +28,7 @@ namespace Assignment_3
         {
             SavingsAccount sa = new SavingsAccount { AccountNumber = 123, Balance = 10000, InterestRate = 5 };
             sa.CalculateInterest();
-            Console.WriteLine("Developed By Gaurav Roll-16");
+            Console.WriteLine("Developed By Mysha");
         }
     }
 }

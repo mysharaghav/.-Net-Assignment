@@ -57,13 +57,13 @@ namespace Assignment_2
             lib.Books.Add(b1);
             lib.Books.Add(b2);
 
-            Member m1 = new Member { Name = "Utkarsh" };
+            Member m1 = new Member { Name = "Mysha" };
             lib.RegisterMember(m1);
 
             lib.ShowAvailableBooks();
             lib.LendBook(m1, b1);
             lib.ShowAvailableBooks();
-            Console.WriteLine("Developed By Gaurav Roll-16");
+            Console.WriteLine("Developed By Mysha");
         }
     }
 }

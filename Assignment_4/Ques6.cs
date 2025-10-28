@@ -25,7 +25,7 @@ namespace Assignment_4
 
             Console.WriteLine("Addition: " + op1(x, y));
             Console.WriteLine("Subtraction: " + op2(x, y));
-            Console.WriteLine("Developed By Gaurav Roll-16");
+            Console.WriteLine("Developed By Mysha");
         }
     }
 }

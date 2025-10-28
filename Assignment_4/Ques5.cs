@@ -28,7 +28,7 @@ namespace Assignment_4
             car.Speed = 150;
             car.Speed = 200;
             Console.WriteLine("Final Speed: " + car.Speed);
-            Console.WriteLine("Developed By Gaurav Roll-16");
+            Console.WriteLine("Developed By Mysha");
         }
     }
 }
